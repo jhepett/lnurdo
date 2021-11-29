@@ -1,0 +1,15 @@
+#home .form-control,
+#contact .form-control,
+#contact1 .form-control,
+#profile .form-control {
+    border: solid 1px #54705F !important;
+    text-align: center !important;
+}
+
+.custom-file-label {
+    border: solid 1px #54705F !important;
+}
+
+.date_publication_con>input {
+    width: calc(100% - (42px + 1rem));
+}
